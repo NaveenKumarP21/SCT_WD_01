@@ -92,20 +92,12 @@ https://naveenkumarp21.github.io/SCT_WD_01
 
 ---
 
-## 💻 GitHub Repository
-
-**Source Code**
-
-https://github.com/naveenkumarp21/SCT_WD_01
-
----
-
 ## 🚀 How to Run Locally
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/naveenkumarp21/SCT_WD_01.git
+git clone https://github.com/NaveenKumarP21/SCT_WD_01.git
 ```
 
 ### 2. Navigate to the project directory
@@ -186,7 +178,7 @@ Possible future enhancements include:
 ## 🔗 Connect With Me
 
 **GitHub:**
-https://github.com/naveenkumarp21
+https://github.com/NaveenKumarP21
 
 **LinkedIn:**
 https://www.linkedin.com/in/naveen-kumar-p-819a26398
